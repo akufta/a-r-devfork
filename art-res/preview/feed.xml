@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>art-res</title>
+    <link href="file:///Users/akufta/Dev/Git/a-r devfork/art-res/preview/feed.xml" rel="self" />
+    <link href="file:///Users/akufta/Dev/Git/a-r devfork/art-res/preview" />
+    <updated>1969-12-31T18:00:00-06:00</updated>
+    <author>
+        <name>Ali</name>
+    </author>
+    <id>file:///Users/akufta/Dev/Git/a-r devfork/art-res/preview</id>
+
+</feed>

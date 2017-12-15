@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "art-res",
+    "description": "",
+    "home_page_url": "file:///Users/akufta/Dev/Git/a-r devfork/art-res/preview",
+    "feed_url": "file:///Users/akufta/Dev/Git/a-r devfork/art-res/preview/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Ali"
+    },
+    "items": [
+    ]
+}

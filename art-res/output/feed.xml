@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>art-res</title>
+    <link href="http://artresbeta.netlify.com/feed.xml" rel="self" />
+    <link href="http://artresbeta.netlify.com" />
+    <updated>1969-12-31T18:00:00-06:00</updated>
+    <author>
+        <name>Ali</name>
+    </author>
+    <id>http://artresbeta.netlify.com</id>
+
+</feed>
